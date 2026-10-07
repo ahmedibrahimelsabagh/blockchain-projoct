@@ -1,0 +1,9 @@
+# Ignore generated build and IDE files
+**/build/
+**/.gradle/
+.idea/
+*.iml
+local.properties
+.DS_Store
+__pycache__/
+*.pyc
